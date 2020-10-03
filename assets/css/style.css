@@ -107,10 +107,10 @@ button:focus {
 /*-- Navbar --*/
 
 .navbar-area .mobile-nav .logo {
-  height: 60px;
-  width: 80px;
+  height: 30px;
+  width: 50px;
   position: absolute;
-  top: -  10px;
+  top: -10px;
   left: 20px;
 }
 
